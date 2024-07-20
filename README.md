@@ -1,3 +1,15 @@
+## [Module 1 Cloud Concepts Overview](<Module 1 Notes.md>)
+## [Module 2 Cloud Economics and Billing](<Module 2 Notes.md>)
+## [Module 3 AWS Global Infrastructure Overview](<Module 3 Notes.md>)
+## [Module 4 AWS Cloud Security](<Module 4 Notes.md>)
+## [Module 5 Networking and Content Delivery](<Module 5 Notes.md>)
+## [Module 6 Compute](<Module 6 Notes.md>)
+## [Module 7 Storage](<Module 7 Notes.md>)
+## [Module 8 Databases](<Module 8 Notes.md>)
+## [Module 9 Cloud Architecture](<Module 9 Notes.md>)
+## [Module 10 Automatic Scaling and Monitoring](<Module 10 Notes.md>)
+
+
 # README
 
 This repo contains notes and resources for the Lambda AWS Academy Cloud Foundations Course.
