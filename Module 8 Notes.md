@@ -106,6 +106,8 @@ Multiple factors influence the cost of RDS
 - Replicates your tables automatically across your choice of AWS Regions
 - Works well for mobile, web, gaming, adtech, and Internet of Things (IoT) applications
 - Provides consistent, single-digit millisecond latency at any scale
+- **unstructured** Database
+- data element that doesn't need to broken down further
 
 <br/>
 
