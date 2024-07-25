@@ -3,9 +3,7 @@
 - This will help you for quick revision before exam.
 - If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
 
-![
-    
-](image.png)
+![AWS cloud foundation image](image.png)
 - [Module 1 Cloud Concepts Overview](<Module 1 Notes.md>)
 - [Module 2 Cloud Economics and Billing](<Module 2 Notes.md>)
 - [Module 3 AWS Global Infrastructure Overview](<Module 3 Notes.md>)
