@@ -91,6 +91,7 @@ Data transfer
 - Designed for [11 9s of durability](https://wasabi.com/blog/11-nines-durability/)
 - Granular access to bucket and objects
 - Data is redundantly stored in the Region
+- s3 is object storage primarily used to store images, videos, and files that continue use.
 
 Data can be accessed via AWS Management Console, AWS Command Line Interface, or the SDK.
 
