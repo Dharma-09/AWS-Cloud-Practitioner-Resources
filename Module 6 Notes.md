@@ -59,7 +59,7 @@ The optimal compute service or services that you use will depend on your use cas
 - Resizable compute capacity
 - You can launch instances from Amazon Machine Images (AMIs)
 - You can control traffic to and from instances
-- Provides tools to build failure resilient applications and isolate them from common failure scenarios
+- Provides tools to build failure-resilient applications and isolate them from common failure scenarios
 
 ### **Launching an EC2 Instance**
 
@@ -82,20 +82,20 @@ These are the nine key decisions to make when you create an EC2 instance by usin
      - Network performance
    - Instance type categories
      - General purpose
-     - Compute optimized
-     - Memory optimized
+     - Compute-optimized
+     - Memory-optimized
      - Storage optimized
      - Accelerated computing
    - Instance types offer family, generation, and size (Example - `t3.large`: Family - `T`, Generation - `3`, Size - `large`)
    - Networking Features
      - The network bandwidth (Gbps) varies by instance type.
-     - To maximize networking and bandwidth performance of your instance type enable enhanced networking and if you have interdependent instances, launch them into a cluster placement group.
+     - To maximize the networking and bandwidth performance of your instance type enable enhanced networking and if you have interdependent instances, launch them into a cluster placement group.
      - Enhanced networking types are supported on most instance types. Enhanced networking types:
        - Elastic Network Adapter (ENA): Supports network speeds of up to 100 Gbps.
        - Intel 82599 Virtual Function interface: Supports network speeds of up to 10 Gbps.
 3. Specify Network Settings
    - Where should the instance be deployed? Identify the VPC and optionally the subnet
-   - Should a public IP addressbe automatically assigned?
+   - Should a public IP address be automatically assigned?
    - You can have multiple networks, such as different ones for development, testing and production
 4. Attach IAM Role (optional)
    - Will software on the EC2 instance need to interact with other AWS services? If yes, attach an appropriate IAM Role. IAM Roles can be attached at any time, not just launch.
