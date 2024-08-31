@@ -17,8 +17,9 @@
 
 
 # README
-
+....
 This repo contains notes and resources for the Lambda AWS Academy Cloud Foundations Course.
+....
 
 ## Essential Links
 
